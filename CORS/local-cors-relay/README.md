@@ -75,7 +75,7 @@ We need a **ntripcaster.json** file. Note the non-standard port 12101.
 }
 ```
 
-## Test
+## Laptop Test
 
 I open one SSH windows and run **ntripcaster** to test.
 
@@ -104,3 +104,11 @@ And a final cross check at the caster...
 This shows the source of my as localhost (127.0.0.1).
 
 It shows my laptop as a client (192.168.1.1).
+
+## RPi Test
+
+The test string for a local RPi to consume the local CORS is
+
+```
+./str2str -in ntrip://test:test@192.168.14.100:12101/Azul
+```

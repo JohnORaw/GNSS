@@ -12,8 +12,7 @@ Description=STR2STR Service
 After=network.target
 
 [Service]
-ExecStart= /home/johnoraw/str2str -in ntrip://john.oraw@iotech.ie:@rtk2go.com/Umricam:2101 -out ntrips://:test@localhost:12101/Azul -out serial://t
-tyACM0:115200:8:n:1
+ExecStart= /home/johnoraw/str2str -in ntrip://john.oraw@iotech.ie:@rtk2go.com/Umricam:2101 -out ntrips://:test@localhost:12101/Azul -out serial://ttyACM0:115200:8:n:1
 Restart=always
 User=johnoraw
 

@@ -112,3 +112,10 @@ The test string for a local RPi to consume the local CORS is
 ```
 ./str2str -in ntrip://test:test@192.168.14.100:12101/Azul
 ```
+
+A working string as used on the Azul test boat is
+
+```
+./str2str -in ntrip://test:test@192.168.14.100:12101/Azul -out serial://ttySC0:19200:8:n:1
+```
+

@@ -53,3 +53,27 @@ sudo cp myntripcaster.service /usr/lib/systemd
 sudo systemctl enable myntripcaster.service
 sudo systemctl status myntripcaster
 ```
+
+## Setup a Client
+
+Anything which will consume from the caster also needs a service. The config below is from Azul, ProjectP (Position and Sonar).
+
+```
+[Unit]
+Description=STR2STR Service
+After=network.target
+
+[Service]
+ExecStart= /home/johnoraw/str2str -in ntrip://test:test@192.168.14.100:12101/Azul -out serial://ttySC0:19200:8:n:1
+Restart=always
+User=johnoraw
+
+[Install]
+WantedBy=multi-user.target
+```
+
+```
+sudo cp str2str_client.service /usr/lib/systemd
+sudo systemctl enable str2str_client.service
+sudo systemctl status str2str_client
+```

@@ -1,2 +1,0 @@
-# UBlox ZED9P
-

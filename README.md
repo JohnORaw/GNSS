@@ -4,7 +4,7 @@ description: What this book is about
 
 # Introduction
 
-I began doing GNSS related projects back in the late 1990s, as I tried to figure out boat navigation. Since then, I've learned many ways to do things, and many more ways not to.&#x20;
+I began doing GNSS related projects back in the late 1990s, as I tried to figure out boat and submarine navigation. Since then, I've learned many ways to do things, and many more ways not to.&#x20;
 
 **Successful integration** often requires trying every wrong (but intuitively correct) approach before serendipitously landing on the counter-intuitive way the thing will work. In hindsight, there was normally some hint as to how to do things, somewhere in an obscure manual, written in an unintelligible way, in a chapter titled “Don’t Bother Reading”.
 
@@ -18,4 +18,4 @@ Ford paid the bill.
 
 **This repo is about working solutions and recipes and their associated chalk marks, but without the itemized bill.**
 
-This book builds on the original content of a GIT repository from 2019.&#x20;
+This git book builds on the original content of a GIT repository from 2019.&#x20;

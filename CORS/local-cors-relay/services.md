@@ -22,7 +22,13 @@ WantedBy=multi-user.target
 ```
 
 ```
+# Raspberry Pi
 sudo cp str2str.service /usr/lib/systemd
+# UB2204
+sudo cp str2str.service /etc/systemd/system
+
+# All
+sudo systemctl status str2str
 sudo systemctl enable str2str.service
 sudo systemctl status str2str
 ```

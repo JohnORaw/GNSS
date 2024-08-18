@@ -12,3 +12,5 @@
 * [Local CORS relay](local-cors-relay/README.md)
   * [Services](local-cors-relay/services.md)
   * [References](local-cors-relay/references.md)
+* [Internet NTRIP relay](internet-ntrip-relay/README.md)
+  * [SNIP](internet-ntrip-relay/snip.md)

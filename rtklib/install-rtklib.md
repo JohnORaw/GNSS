@@ -17,3 +17,5 @@ cd ~
  
 
 ```
+
+In more recent times (and for a PC version of RTKLIB, I am using [RTKLIB: demo5 b34k](https://github.com/rtklibexplorer/RTKLIB/releases).&#x20;

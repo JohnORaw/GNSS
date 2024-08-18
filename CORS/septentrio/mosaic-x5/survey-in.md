@@ -58,7 +58,7 @@ I copy the output to a directory called **Solution**. There are three files, I l
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-I do a sanity check by 2D plotting each row. I did this work near solar maximum on 18th August 2024. My readings were way off during the early hours, corresponding with Aurora and diurnal variation in the earth's magnetic filed, etc. Whenever doing this work, try to avoid periods when the sun is cracking with M and X class flares and some of the best aurora in 20 years is visible. Its also a wake up call to the vulnerability of satellite navigation. I filtered out the big variations.
+I do a sanity check by 2D plotting each row. I did this work near solar maximum on 18th August 2024. My readings were way off during the early hours, corresponding with Aurora and diurnal variation in the earth's magnetic field, etc. Whenever doing this work, try to avoid periods when the sun is cracking with M and X class flares and some of the best aurora in 20 years is visible. Its also a wake up call to the vulnerability of satellite navigation. I filtered out the big variations.
 
 I can now do calculations, see how stable the position is, get the mean values, variance etc. I had measurements taken in 2021 and I can compare them.
 

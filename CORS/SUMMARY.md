@@ -2,7 +2,7 @@
 
 * [What you can find here](README.md)
 * [UBlox ZED9P](ublox-zed9p/README.md)
-  * [Simple CORS](ublox-zed9p/simple-cors.md)
+  * [Rover test with simple CORS](ublox-zed9p/rover-test-with-simple-cors.md)
   * [Survey In](ublox-zed9p/survey-in.md)
 * [Septentrio](septentrio/README.md)
   * [Mosaic X5](septentrio/mosaic-x5/README.md)

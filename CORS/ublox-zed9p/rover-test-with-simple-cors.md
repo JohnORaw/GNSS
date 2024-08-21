@@ -1,4 +1,4 @@
-# Simple CORS
+# Rover test with simple CORS
 
 Do some background reading on [www.rtk2go.com](http://www.rtk2go.com/) and find the closest NTRIP mount point. This is just a test, so even if its some distance away, this should work.
 
@@ -8,12 +8,14 @@ Always take a backup of the Ardusimple configuration before you begin a configur
 
 In U-Centre, select **Tools**, **Receiver Configuration**, set a file name and then click **Transfer GNSS->File**
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
-
 1. Take an Ardusimple GPS and connect it to a conventional PC via USB.
 2. Download and run the latest version of U-Center software from U-Blox.
 3. Go to Receiver->NTRIP Client and enter in the location of the NTRIP server you are using. If its within 40kms or so, you should get RTK FIXED. If the distance is greater you may not get better than RTK FLOAT.
-4. It only takes seconds for me to lock.
+4. From 2024, you must include a valid e-mail address and the password should be set to **none**
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+1. It only takes seconds for me to lock.
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 

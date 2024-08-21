@@ -39,7 +39,7 @@ I use the proprietary SBF log files, which this version of RTKLIB understands.
 
 * Click Convert and go for dinner!
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Post Process
 
@@ -47,7 +47,7 @@ Now I can post-process my data.&#x20;
 
 Run the **RTKPOST** tool.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The rover RINEX OBS data is the .obs file from the **Rover RINEX** directory.
 * The base station RINEX OBS data is the .XXo file from the **Foyle RINEX** directory. Because there are many files, I can use the **?** symbol as a wildcard.

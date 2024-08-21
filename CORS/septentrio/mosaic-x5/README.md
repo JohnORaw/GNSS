@@ -4,7 +4,7 @@ I am using six functions on the Mosaic X5 with Ethernet shield.
 
 1. It can act like a CORS Station and a recipe exists on the following pages for setup.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. It shows jamming attempts and has a simple spectrum analyzer.
 

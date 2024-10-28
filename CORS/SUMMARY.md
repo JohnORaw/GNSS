@@ -9,6 +9,7 @@
     * [Survey In](septentrio/mosaic-x5/survey-in.md)
     * [OSNMA](septentrio/mosaic-x5/osnma.md)
     * [CORS](septentrio/mosaic-x5/cors.md)
+    * [Alternative CORS forwarding](septentrio/mosaic-x5/alternative-cors-forwarding.md)
 * [Local CORS relay](local-cors-relay/README.md)
   * [Services](local-cors-relay/services.md)
   * [References](local-cors-relay/references.md)

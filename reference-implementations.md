@@ -1,8 +1,10 @@
-# Reference Implementations
+# UBX Reference Implementations
 
 So, how do we define the meaning of the expression _"it works!"_.
 
-For any project we need a metre stick (the metric version of a yardstick!) which clarifies unambiguously, what _working_ means. In this case, I am standardizing on unmodified OpenCPN running on a RPi 3B+.
+For any project we need a metre stick (the metric version of a yardstick!) which clarifies unambiguously, what _working_ means. In this case, I am standardizing on unmodified OpenCPN running on a RPi 3B+ and later on 4 and 5.
+
+Before beginning with a UBX, take a backup of its configuration and record its unique ID in U-Centre. Look up UBX-SEC-UNIQID and record.
 
 So, the complications...
 
